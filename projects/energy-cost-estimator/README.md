@@ -26,4 +26,4 @@ See `ISE 200 Project Report.pdf` for full methodology, results, and key achievem
 | Stakeholder satisfaction  | 90%+         | Based on demo survey   |
 
 
-See diagrams/ for feature importance and application interface screenshots.
+See diagrams/ for feature importance and application interface screenshots in the project report file.

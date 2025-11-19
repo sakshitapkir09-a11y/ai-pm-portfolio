@@ -1,4 +1,4 @@
-# Product Manager Internship – Excelerate (June 2025 – September 2025)
+# Product Manager Internship (AI-powered solution) – Excelerate (June 2025 – September 2025)
 
 ## Overview
 

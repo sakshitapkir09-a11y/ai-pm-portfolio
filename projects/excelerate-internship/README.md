@@ -1,53 +1,48 @@
-# Clone your repo if you haven't
-git clone https://github.com/sakshitapkir09-a11y/ai-pm-portfolio.git
-cd ai-pm-portfolio
+# Product Manager Internship – Excelerate (June 2025 – September 2025)
 
-# Create project folder and files
-mkdir -p projects/excelerate-internship/diagrams
-touch projects/excelerate-internship/README.md
-touch projects/excelerate-internship/metrics.md
+## Overview
 
-# Add starter README.md content (replace with your actual text)
-cat << 'EOF' > projects/excelerate-internship/README.md
-# Excelerate Product Manager Internship
+Product Manager intern at Excelerate, leading AI-powered solutions to restore trust and maximize ROI in the influencer marketing industry. Managed the full product lifecycle: market research, product modeling, competitive analysis, and go-to-market strategy focused on authenticity and business value.
 
-## Overview  
-Led AI-driven influencer marketing innovation to restore trust & maximize ROI, addressing a $24B market authenticity crisis.
+## My Role
 
-## Role  
-Market research, business model design, AI product roadmap, stakeholder collaboration, competitor analysis.
+- Led market/user research to surface trust and ROI gaps in the $24B influencer sector
+- Synthesized findings into business models and competitive analyses
+- Defined product requirements, prioritized features (RICE framework), developed MRDs/PRDs
+- Created business model canvas, phased rollout plans, and value propositions
+- Coordinated cross-functional execution with engineering, design, and strategy teams
 
-## Methods  
-Lean Startup, SWOT, business model canvas, competitive benchmarking, phased rollout plan.
+## Methods & Frameworks
 
-## Key Outcomes  
-- Validated AI-powered authenticity tool as primary innovation  
-- Designed phased commercialization roadmap  
-- Achieved targeted KPIs for pilot retention and revenue projections  
+- Lean Startup and affinity mapping for ideation
+- SWOT analysis and Porter’s 5 Forces for strategic planning
+- Business model canvas and SaaS revenue modeling
+- Sprint-based user testing and pilot validation
 
-## Artifacts  
-- Team-04-Market-Opportunity-Report.pdf  
-- Team04_Week-02-Deliverable.pdf  
-- Team04_Week-03-Deliverable.pdf  
-- Business-Model-presentation.pdf  
-EOF
+## Key Outcomes
 
-# Add starter metrics.md content
-cat << 'EOF' > projects/excelerate-internship/metrics.md
-# Key Metrics for Excelerate AI-Powered Influencer Marketing Project
+- Delivered strategic roadmap for AI-powered authenticity verification platform
+- Designed Micro/Nano Influencer Network and Community Co-Creation Platform
+- Developed a four-phase rollout plan for implementation and growth
+- Created risk mitigation strategies, ensured legal and compliance readiness
 
-| Metric                             | Value / Insight                               | Notes                           |
-|----------------------------------|-----------------------------------------------|--------------------------------|
-| Market Size                      | $24B global influencer marketing (2024-2025) | Source: Statista, Industry Reports |
-| Consumer Distrust                | 64% distrust influencer endorsements          | Nielsen 2024                    |
-| Engagement Drop                 | 30% decline in key niches since 2020          | Industry benchmark             |
-| Nano/Micro Influencer Engagement | Up to 60% higher than macro influencers         | Performance data                |
-| Authenticity Tool Accuracy       | Forecast 85%+ detection accuracy               | Internal model/prototype goal   |
-| Revenue Potential                | $1.88M ARR target Yr1                           | SaaS subscription model         |
-| Pilot Retention Rate             | Target 80% users convert to paid plans         | Pilot metrics                   |
-EOF
+## Metrics & Impact
 
-# Commit & push changes to GitHub
-git add projects/excelerate-internship
-git commit -m "Add Excelerate internship folder with README and metrics summary"
-git push
+| Metric                     | Result/Insight                        |
+|----------------------------|---------------------------------------|
+| Market Size                | $24B global influencer market         |
+| Consumer Distrust          | 64% distrust influencer endorsements  |
+| Engagement Gains           | Nano influencers: up to 60% higher    |
+| Authenticity Tool Accuracy | 85%+ forecast (pilot goal)            |
+| Revenue Potential          | $1.88M ARR (projected Year 1)         |
+| Pilot Conversion Goal      | 80% users to paid plans               |
+
+## Featured Artifacts
+
+- [Business Model presentation.pdf](Business%20Model%20presentation.pdf)
+- [Feasibility report.pdf](Feasibility%20report.pdf)
+- [Innovation Framework report.pdf](Innovation%20Framework%20report.pdf)
+- [Market Opportunity Report.pdf](Market%20Opportunity%20Report.pdf)
+
+
+

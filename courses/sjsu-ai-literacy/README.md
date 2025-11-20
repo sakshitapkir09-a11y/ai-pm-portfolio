@@ -55,7 +55,8 @@ Completed AI literacy coursework focused on human-centric AI experience design f
 
 ## Featured Artifacts
 
-- [Course Learning Summary (PDF)](What-we-learn-in-this-course.pdf)
+- [Course Learning Summary (PDF)](What%20we%20learn%20in%20this%20course.pdf)
+
 
 ## How to Review
 

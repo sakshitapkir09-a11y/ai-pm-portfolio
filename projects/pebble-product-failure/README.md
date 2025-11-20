@@ -55,7 +55,7 @@ Conducted rigorous post-mortem analysis of Pebble's trajectory from category-def
 
 ## Featured Artifacts
 
-- [Product Failure Research Paper (PDF)](Product-Failure-research-paper.pdf)
+- [Product Failure Research Paper](Product-Failure-research-paper.pdf)
 
 ## How to Review
 

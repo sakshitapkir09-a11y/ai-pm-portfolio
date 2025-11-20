@@ -66,7 +66,8 @@ Led competitive and supply chain strategy analysis of Temu, a disruptive e-comme
 
 ## Featured Artifacts
 
-- [Full Project Report (PDF)](ISE-245-Project-Report.pdf)
+- [Full Project Report (PDF)](ISE%20245%20Project%20Report.pdf)
+
 
 ## How to Review
 

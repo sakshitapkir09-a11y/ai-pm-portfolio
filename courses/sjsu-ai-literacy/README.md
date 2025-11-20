@@ -1,4 +1,4 @@
-# Linkedin Learning:: Innovating with AI Design for Autonomous Vehicles
+# Linkedin Learning: Innovating with AI Design for Autonomous Vehicles
 
 **Institution:** Linkedin Learning  
 **Course:** AI Literacy - Innovating with AI Design Using Autonomous Vehicles  

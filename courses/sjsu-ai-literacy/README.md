@@ -1,6 +1,6 @@
-# SJSU AI Literacy: Innovating with AI Design for Autonomous Vehicles
+# Linkedin Learning:: Innovating with AI Design for Autonomous Vehicles
 
-**Institution:** San Jose State University (SJSU)  
+**Institution:** Linkedin Learning  
 **Course:** AI Literacy - Innovating with AI Design Using Autonomous Vehicles  
 **Instructor:** Sudha Jamthe  
 **Date:** 2025

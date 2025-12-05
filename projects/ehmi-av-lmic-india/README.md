@@ -57,7 +57,7 @@ Led human factors research and systems design for external Human-Machine Interfa
 ## Featured Artifacts
 
 - [Research Paper: Universal Vehicle Protocols vs. Local Realities (PDF)](Tapkir,%20S.%20and%20Abdelmalak%20A.%20_Universal%20Vehicle%20Protocols%20versus%20Local%20Realities.pdf)
-- [Presentation: Systematic Gaps and Safety Risks in AV Deployment (PDF)](AV_HFE_PPT_ISE-210.pdf)
+- [Presentation: Systematic Gaps and Safety Risks in AV Deployment (PDF)](AV_HFE_PPT_ISE%20210.pdf)
 - [Video: eHMI Demo/Explanation](#) *(upload and link once available)*
 
 ## Impact for AI Product Management

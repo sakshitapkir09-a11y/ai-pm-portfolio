@@ -56,8 +56,10 @@ Led human factors research and systems design for external Human-Machine Interfa
 
 ## Featured Artifacts
 - [Design Specification Document (PDF)](Tapkir,%20S.%20and%20Abdelmalak%20A.%20_Universal%20Vehicle%20Protocols%20versus%20Local%20Realities.pdf)
-- [Axiomatic Design (xlsx)](Tapkir,%20S.%20and%20Abdelmalak%20A.%20_Universal%20Vehicle%20Protocols%20versus%20Local%20Realities.pdf)
-- [House of Quality (xlsx)](Tapkir,%20S.%20and%20Abdelmalak%20A.%20_Universal%20Vehicle%20Protocols%20versus%20Local%20Realities.pdf)
+  
+- [Axiomatic Design (xlsx)](Axiomatic%20Design.xlsx)
+- [House of Quality (xlsx)](House%20of%20Quality_Results.xlsx)
+
 
 - [Research Paper: Universal Vehicle Protocols vs. Local Realities (PDF)](Tapkir,%20S.%20and%20Abdelmalak%20A.%20_Universal%20Vehicle%20Protocols%20versus%20Local%20Realities.pdf)
 - [Presentation: Systematic Gaps and Safety Risks in AV Deployment (PDF)](AV_HFE_PPT_ISE%20210.pdf)

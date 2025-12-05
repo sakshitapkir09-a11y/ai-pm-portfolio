@@ -25,6 +25,9 @@ ML-driven tool for energy sector cost estimation—Random Forest model with 99% 
 ### [Excelerate Product Manager Internship](projects/excelerate-internship/README.md)
 Summer 2025 PM intern—led AI-powered influencer marketing strategy, validated trust/ROI solutions, designed business model canvas, and executed go-to-market roadmap.
 
+### [eHMI for Autonomous Vehicles in LMIC (India)](projects/ehmi-av-lmic-india/README.md): 
+Human factors + systems design for safe AV–pedestrian communication. Meta-analysis + Axiomatic Design approach.
+
 ### [Pebble Smart Watch Failure Analysis](projects/pebble-product-failure/README.md)
 Rigorous post-mortem of category pioneer's decline—technical tradeoffs, managerial decisions, systemic forces, and strategic recommendations for AI PM roles.
 
